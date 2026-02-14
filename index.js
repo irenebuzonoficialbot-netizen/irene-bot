@@ -1090,8 +1090,6 @@ ${card.idol} • ${card.era}
     }  )
     }});
 
-client.login(process.env.DISCORD_TOKEN);
-
 const express = require("express");
 const app = express();
 
@@ -1110,3 +1108,5 @@ process.on('unhandledRejection', (err) => {
 process.on('uncaughtException', (err) => {
     console.error('Uncaught Exception:', err);
 });
+
+client.login(process.env.DISCORD_TOKEN);
