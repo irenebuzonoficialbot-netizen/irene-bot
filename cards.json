@@ -1,0 +1,1501 @@
+[
+  {
+    "idol": "Hari",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471670363745161299/1_sin_titulo_20260212182158.png?ex=698fc755&is=698e75d5&hm=5ef0c47fe33e0062217d04e7594954e297361da3d2dbc4b62538330a76dc8175&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MHAMAA"
+  },
+  {
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980194175779042/1_sin_titulo7_20260213182323.png?ex=6990e7e2&is=698f9662&hm=5ddd07c0ae153fa0a92612bef6782d82254e5c43143fe3bdee706f19cbccd327&",
+    "codePrefix": "ETIZOA"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980194519584941/1_sin_titulo7_20260213181558.png?ex=6990e7e2&is=698f9662&hm=cd4bc2fe55bfa1f7e55b2f1ad7ca0ccd1b26607b5b137392dff87008e27a4dde&",
+    "codePrefix": "ELEZOA"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980195153051649/1_sin_titulo7_20260213181356.png?ex=6990e7e2&is=698f9662&hm=d40aeb7505f0a658b7e6e32a3571969cd76dfad0b8deb0116a6c10c8ea4ee75a&",
+    "codePrefix": "EMAZOA"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980195740123226/1_sin_titulo7_20260213181637.png?ex=6990e7e2&is=698f9662&hm=ed65976285034e2f41082eb1a89f336cf2be757e43b79d410c4e07160e9d6fa9&",
+    "codePrefix": "EYOZOA"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980196197568625/1_sin_titulo7_20260213181735.png?ex=6990e7e2&is=698f9662&hm=b1d2b1faf55e57b226427b188194e5a6f09e2fabe04390d980023d169f414c6a&",
+    "codePrefix": "EJIZOA"
+  },
+
+{
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980196738502847/1_sin_titulo7_20260213181918.png?ex=6990e7e2&is=698f9662&hm=e6f596fe2148a7f1ef77795ecfa84fb8e9f57d22c35973528aba8af5ceb713a9&",
+    "codePrefix": "ETIZOB"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980197111791667/1_sin_titulo7_20260213181949.png?ex=6990e7e3&is=698f9663&hm=0eef20b6341cf14c79d9e77bcb5c63b115f685aadd23f07493a073da7ab8f7a6&",
+    "codePrefix": "ELEZOB"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980197619171461/1_sin_titulo7_20260213182023.png?ex=6990e7e3&is=698f9663&hm=84018270343baf8bd6f12588ce161ec6b36cecc3a04268145c692d60b94b6b9f&",
+    "codePrefix": "EMAZOB"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980198009372682/1_sin_titulo7_20260213182057.png?ex=6990e7e3&is=698f9663&hm=e512ea775654bd479fed143608076d29d5de5830f7c241f877876b61f54fd5ad&",
+    "codePrefix": "EYOZOB"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980198512562370/1_sin_titulo7_20260213182128.png?ex=6990e7e3&is=698f9663&hm=6bdd3f1603c3f07162af95280b7b155fa957aadf1313b10f270f23ce75f8bb7c&",
+    "codePrefix": "EJIZOB"
+  },
+  {
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "Girl gvng",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471974103262040116/1_sin_titulo7_20260213175348.png?ex=6990e236&is=698f90b6&hm=40b371628b9de89ba9eeb78cd097c9b4b55e7fd87d5cb000fbcc7bdf0a445871&",
+    "codePrefix": "EEYOGI"
+  },
+
+{
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "Girl gvng",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471974103614492897/1_sin_titulo7_20260213175332.png?ex=6990e236&is=698f90b6&hm=8f9eb701587d8314288ab3ab5f6d59fb01b687f85daa4a3ea58717e1a8e0e69b&",
+    "codePrefix": "EETIGI"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "Girl gvng",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471974103949770919/1_sin_titulo7_20260213175318.png?ex=6990e236&is=698f90b6&hm=f177371cc14cd6ef2e6773702dcddaa51469f1c16bdb2bca4c041c94872a8b0c&",
+    "codePrefix": "EELEGI"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "Girl gvng",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471974104268673107/1_sin_titulo7_20260213175420.png?ex=6990e236&is=698f90b6&hm=6f218ec08bd4bc4e6da6d0cac223be9fa742a59f266984318fab013e05f49bd7&",
+    "codePrefix": "EEMAGI"
+  },
+  {
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "We go up V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982833349431462/1_sin_titulo7_20260213182728.png?ex=6990ea57&is=698f98d7&hm=85ff860a4f67e7965b3e3e44b69aca88e0c8a6c1f9b4196c1328e6f33cb42112&",
+    "codePrefix": "ETIWEA"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "We go up V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982833974116485/1_sin_titulo7_20260213182909.png?ex=6990ea57&is=698f98d7&hm=0de0771b952e9cba5e515bc2dcdbcc61a7bf19660f0904b03f16607ccfdc21b3&",
+    "codePrefix": "EYOWEA"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "We go up V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982834528030930/1_sin_titulo7_20260213183103.png?ex=6990ea57&is=698f98d7&hm=c4158b453fd60c6d0c1281e9beddab06ab158c1e77b8e98360668f0008c08cd9&",
+    "codePrefix": "ELEWEA"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "We go up V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982834947457058/1_sin_titulo7_20260213183309.png?ex=6990ea57&is=698f98d7&hm=6d6978c8234c9f3de28e172c332a251f595395c46a07588d39d571f6ba246b1e&",
+    "codePrefix": "EMAWEA"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "We go up V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982835555373096/1_sin_titulo7_20260213183350.png?ex=6990ea58&is=698f98d8&hm=85ed7cab083e1aa09a347028a1c0bbe0595122abbdf1e1a134af7c9224b03cd5&",
+    "codePrefix": "EJIWEA"
+  },
+  {
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "We go up V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982994645455012/1_sin_titulo7_20260213182755.png?ex=6990ea7e&is=698f98fe&hm=370efa50b805d8c4b9b583a726980969620714d70ca4296ea03c902637805e30&",
+    "codePrefix": "ETIWAB"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "We go up V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982995454951628/1_sin_titulo7_20260213183003.png?ex=6990ea7e&is=698f98fe&hm=5406ee04e6385d68a53f83f049af69468681ef33abad7d8bc0ee56dbffb1b539&",
+    "codePrefix": "EYOWEB"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "We go up V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982995928780921/1_sin_titulo7_20260213183131.png?ex=6990ea7e&is=698f98fe&hm=d99d8fcaca6142d6ac1f90cf6129d29096f53360edc59ab3cd91d113cffa879f&",
+    "codePrefix": "ELEWEB"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "We go up V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982996444938430/1_sin_titulo7_20260213183243.png?ex=6990ea7e&is=698f98fe&hm=9bb9442d83b8f2605f6cde7cbe3596236fcddb1a06abdda8e986ebd07e973423&",
+    "codePrefix": "EMAWEB"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "We go up V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471982997002649732/1_sin_titulo7_20260213183435.png?ex=6990ea7e&is=698f98fe&hm=d58aeb1b909568f5bf7855736932bf370d49cde71b922ca1bd54071ad5612ce6&",
+    "codePrefix": "EJIWEB"
+  },
+  {
+    "idol": "Minnie",
+    "grupo": "By:te",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892541728096392/24_sin_titulo11_20260212095015.png?ex=69909640&is=698f44c0&hm=3521e0d2fdbca41b0b6c2019b1131bc3f7683ab893346937fb2c42653a5adbe5&",
+    "codePrefix": "BYMIPR"
+  },
+
+{
+    "idol": "Gara",
+    "grupo": "By:te",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892542609166498/24_sin_titulo11_20260212095009.png?ex=69909640&is=698f44c0&hm=4a40fde6643b91875b7f9b600ef91393a7283cc46112ad7e9d1ec73d8594c211&",
+    "codePrefix": "BYGAPR"
+  },
+
+{
+    "idol": "Moon",
+    "grupo": "By:te",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892543414206606/24_sin_titulo11_20260212095003.png?ex=69909640&is=698f44c0&hm=c4961c3973574b51b00a551681869514602af2c066c7453c9f67a8662c147d29&",
+    "codePrefix": "BYMOPR"
+  },
+  {
+    "idol": "Suhwi",
+    "grupo": "Rosemir",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892702558814319/1_sin_titulo7_20260213021941.png?ex=69909666&is=698f44e6&hm=01c46ed48088b3b7445684bd46c171b2e33ee7725adf43125ee4a7c06eb5a1c5&",
+    "codePrefix": "ROSUPR"
+  },
+
+{
+    "idol": "Minjun",
+    "grupo": "Rosemir",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892702952947774/1_sin_titulo7_20260213021855.png?ex=69909666&is=698f44e6&hm=3339a02c3b4e0840955b9b91f9f43fe1b50102b7b22fddf4897859da10b4bf3a&",
+    "codePrefix": "ROMIPR"
+  },
+
+{
+    "idol": "Sumji",
+    "grupo": "Rosemir",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892703477370911/1_sin_titulo7_20260213021803.png?ex=69909666&is=698f44e6&hm=408ede1b1c5968e252816de241da1f10b448a7363399311561f331f0e8e2e552&",
+    "codePrefix": "ROSUPR"
+  },
+
+{
+    "idol": "Kaede",
+    "grupo": "Rosemir",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892703875698710/1_sin_titulo7_20260213021717.png?ex=69909667&is=698f44e7&hm=25962a6d5a45472f79933c9f425827e0fff1d6678a9c6e15ab19c0ec0ce4262f&",
+    "codePrefix": "ROKAPR"
+  },
+
+{
+    "idol": "Ruby",
+    "grupo": "Rosemir",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892704278483187/1_sin_titulo7_20260213021610.png?ex=69909667&is=698f44e7&hm=250536cf6bba63922f30ea939cbd14817f6ef58cc5dde17f623a4a35e4a74e37&",
+    "codePrefix": "RORUPR"
+  },
+  {
+    "idol": "Reiha",
+    "grupo": "Chériz",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892719382036561/1_sin_titulo7_20260213023805.png?ex=6990966a&is=698f44ea&hm=e56d1bbb041d48b549d6ca417654706aafe1277adb6907387ebce528f867084c&",
+    "codePrefix": "CHREPR"
+  },
+
+{
+    "idol": "Rina",
+    "grupo": "Chériz",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892719801602119/1_sin_titulo7_20260213023853.png?ex=6990966a&is=698f44ea&hm=374b30eb74939f5e421148c4b269c34e560b49c5df56d8d7cdde02471d0eb936&",
+    "codePrefix": "CHRIPR"
+  },
+
+{
+    "idol": "Allison",
+    "grupo": "Chériz",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892720175022100/1_sin_titulo7_20260213023601.png?ex=6990966a&is=698f44ea&hm=880040549324451cb7cec2de32e4e0a933031c20152e3802d686c1dbfde79a20&",
+    "codePrefix": "CHALPR"
+  },
+{
+    "idol": "Jurin And Ryo",
+    "grupo": "Ships",
+    "era": "Ship Juryo 2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1472016220910784603/1_sin_titulo8_20260213204629.png?ex=6991096f&is=698fb7ef&hm=ded33f9fc8cc9ff67fd0ed8182659eb372093e1291aea20fda963b22c023030d&=&format=webp&quality=lossless&width=433&height=648",
+    "codePrefix": "SHPJRB"
+  },
+{
+    "idol": "Hina",
+    "grupo": "Chériz",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892720560636067/1_sin_titulo7_20260213023650.png?ex=6990966b&is=698f44eb&hm=eb01b596292e7671802b60303f983bf20f4576d49b4b51332037f2508dcab078&",
+    "codePrefix": "CHHIPR"
+  },
+
+{
+    "idol": "Jena",
+    "grupo": "Chériz",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471892720879538297/1_sin_titulo7_20260213023734.png?ex=6990966b&is=698f44eb&hm=c3dfed4c0bc95757148088ee9d37e9223e6ab8ba5d9ef7504a29867bc03b32e2&",
+    "codePrefix": "CHJEPR"
+  },
+{
+    "idol": "Hyori",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471670364320043230/1_sin_titulo_20260212182403.png?ex=698fc755&is=698e75d5&hm=7e5f8ade0138a74d01a6088741749f739ece21cf35e5db5b02eb82213daf6cf8&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MHYMAA"
+  },
+  {
+    "idol": "Hyori",
+    "grupo": "Mystic",
+    "era": "Magical V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471670193414475856/1_sin_titulo_20260212182319.png?ex=698fc72c&is=698e75ac&hm=8729aae1d2b67f92c846855962a47b52a09268f5701b09fc317881c627c83eaf&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "MHYMAB"
+  },
+  {
+    "idol": "Heeri",
+    "grupo": "Meowon",
+    "era": "Body",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699918530809987/1_sin_titulo5_20260212234916.png?ex=698fe2db&is=698e915b&hm=9159c763e37941f597924d64a1eba7aaafd979f5ee02547ca11cba6bf5e1e0cb&",
+    "codePrefix": "MEHEBO"
+  },
+
+{
+    "idol": "Douha",
+    "grupo": "Meowon",
+    "era": "Body",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699919571259463/1_sin_titulo5_20260212234607.png?ex=698fe2db&is=698e915b&hm=59466142a74b89167ed4284c40d1b72df608e6f7119f86a898c3c936fad732cc&",
+    "codePrefix": "MEDOBO"
+  },
+
+{
+    "idol": "Heaven",
+    "grupo": "Meowon",
+    "era": "Body",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699920393080893/1_sin_titulo5_20260212234523.png?ex=698fe2db&is=698e915b&hm=6ccde849b6378f6245a2c5f66d0797d9a2a73d121eb559382aa5251bb206c793&",
+    "codePrefix": "MEAVBO"
+  },
+
+{
+    "idol": "Nora",
+    "grupo": "Meowon",
+    "era": "Body",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699921269948561/1_sin_titulo5_20260212234221.png?ex=698fe2dc&is=698e915c&hm=6c56b9eae9db2029ca8f83110303ed6fa20f1fd89a9e153111d12c9e44f9feca&",
+    "codePrefix": "MENOBO"
+  },
+
+{
+    "idol": "Chanelle",
+    "grupo": "Meowon",
+    "era": "Body",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699922360209478/1_sin_titulo5_20260212234045.png?ex=698fe2dc&is=698e915c&hm=9eddfe9a108201f0dd8310fc7c326921a310fb8751a2c25d87f93bcd5d5963fe&",
+    "codePrefix": "MECHBO"
+  },
+  {
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699935991955601/1_sin_titulo4_20260212221810.png?ex=698fe2df&is=698e915f&hm=53c4b6204bcf50bf331d58f8f7253baa278c3b9560117b9b2b698578d9ad5b48&",
+    "codePrefix": "CRLEPR"
+  },
+
+{
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699936415322234/1_sin_titulo4_20260212221731.png?ex=698fe2df&is=698e915f&hm=d10b3bcc12b1bbd4820a7992fe8b4737f4ebe85732281a8d3f01c8c15578a25a&",
+    "codePrefix": "CRYUPR"
+  },
+
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699937019433032/1_sin_titulo4_20260212221631.png?ex=698fe2df&is=698e915f&hm=fd280b68b94262a5613e7dd60c24cb7b8e3e0cedf8d5fe663b459015dccbb428&",
+    "codePrefix": "CRRUPR"
+  },
+
+{
+    "idol": "Minji",
+    "grupo": "Crave",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471699937463894037/1_sin_titulo4_20260212222027.png?ex=698fe2df&is=698e915f&hm=3bf276f30b5eaa3d4113b32f7e14c512b8b0faee9ff42d2435873d2d72214fce&",
+    "codePrefix": "CRMIPR"
+  },
+
+{
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471705932663623781/image.png?ex=698fe875&is=698e96f5&hm=445e147e620e4e32c042b816257bd8f197db97d18b834a80f26c3e69b96ec2ae",
+    "codePrefix": "CRBEPR"
+  },
+  {
+    "idol": "CHERRY",
+    "grupo": "MIRINAE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471702910478843965/image.png?ex=698fe5a4&is=698e9424&hm=18ffdd45728ec42c52ff0d6f0c481573e8340c4687d250f20a04984b57b6888d&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "MICHPR"
+  },
+
+{
+    "idol": "ROSE",
+    "grupo": "MIRINAE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471702910978228265/image.png?ex=698fe5a4&is=698e9424&hm=6640f2b9996f81f4932f84dc89974873be09ca3dbbc0ec8427286735fdbdb541&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "MIROPR"
+  },
+
+{
+    "idol": "DANYA",
+    "grupo": "MIRINAE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471702911452053669/image.png?ex=698fe5a5&is=698e9425&hm=fbcd587f2c78e6fb214a943644bda7b0e3e7cedf6ee043cc85022a51ea4100c9&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "MIDAPR"
+  },
+
+{
+    "idol": "LELE",
+    "grupo": "MIRINAE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471702912068485363/image.png?ex=698fe5a5&is=698e9425&hm=114d74482c44feac079fd74769eb47a0f28f3d8d1a2e05524dc2b9dd953ab5d4&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "MILEPR"
+  },
+  {
+    "idol": "ELLIE",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710113248051210/image.png?ex=698fec5a&is=698e9ada&hm=4ef1a8e7d3e8d6e46ee76d703abe82445ab75ac849e62f84206437705a3c8ba0&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULELPR"
+  },
+
+{
+    "idol": "MICHAELA",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710114087047177/image.png?ex=698fec5a&is=698e9ada&hm=6cd54f0fb12ee0b2d21eeb8bb182d98edadd278bc96ce185bd2ad679520b95dc&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULMIPR"
+  },
+
+{
+    "idol": "KATANA",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710114716188967/image.png?ex=698fec5a&is=698e9ada&hm=d1a816c61ba85fc6b3b553660de0aa64e18b66d4f62fce8c194ff7ac13142adb&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULKAPR"
+  },
+
+{
+    "idol": "MOKA",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710115596861540/image.png?ex=698fec5a&is=698e9ada&hm=1e75e0bd5d6baea1963e938be43c81e89fe238894d2ae122b609b0381090969e&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULMOPR"
+  },
+
+{
+    "idol": "DAZRA",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710116322607184/image.png?ex=698fec5a&is=698e9ada&hm=cdb3c0df0e329e7f2e5e414046f1d924f0f2e76b9727715c2600abe649c61027&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULDAPR"
+  },
+
+{
+    "idol": "ASAMI",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710117123719188/image.png?ex=698fec5a&is=698e9ada&hm=3b67aef3b08a9415e0729cbf9c7c65684b204dcd0865e565cb0f1046e1f00aca&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULASPR"
+  },
+  {
+    "idol": "ERIKA",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707496522584338/image.png?ex=698fe9ea&is=698e986a&hm=86e871a343de27e39d57b24123dca220e5660436ae3c77e875056fd0e3784b03&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NOERPR"
+  },
+  {
+    "idol": "ASAMI",
+    "grupo": "U'LL BE",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471710117123719188/image.png?ex=698fec5a&is=698e9ada&hm=3b67aef3b08a9415e0729cbf9c7c65684b204dcd0865e565cb0f1046e1f00aca&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "ULASPR"
+  },
+  {
+    "idol": "KALANI",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707492915351613/image.png?ex=698fe9e9&is=698e9869&hm=dd4f0a154c7fb21b33b7141a5c1eb5466890c7b4976d174ed998b18c4ed87e0b&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NOKAPR"
+  },
+
+{
+    "idol": "MONA",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707493532041408/image.png?ex=698fe9e9&is=698e9869&hm=8e397e8eacc9293f32cbc13c73afb25c9da86ff9ed77ef0577376a8d4c71700b&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NOMOPR"
+  },
+
+{
+    "idol": "NEVEAH",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707494131961886/image.png?ex=698fe9e9&is=698e9869&hm=f6d8d4390ffef251b8f633446bf481a22ad56f1039ab0bb2543e95ed6e17183a&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NONEPR"
+  },
+
+{
+    "idol": "NAYEON",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707494920228945/image.png?ex=698fe9e9&is=698e9869&hm=fe764bf2248143515c6d40209f6170c84f088cabde12c5ece613c98a71294683&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NONAPR"
+  },
+{
+    "idol": "Soona",
+    "grupo": "Soloist",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471732898456666112/image.png?ex=69900192&is=698eb012&hm=7221fa8bc65bc846689a85ba00355742eaa9871295f6bae881f6145e9e28fd8b&=&format=webp&quality=lossless&width=433&height=648",
+    "codePrefix": "SOSOPR"
+  },
+{
+    "idol": "ARELIS",
+    "grupo": "NOORD",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471707495725662351/image.png?ex=698fe9e9&is=698e9869&hm=9b340d57881c41e295cbcc755ff909350d43661ef54010a25e4a4ecda9c44441&=&format=webp&quality=lossless&width=570&height=856",
+    "codePrefix": "NOARPR"
+  },
+{
+    "idol": "Hari",
+    "grupo": "Mystic",
+    "era": "Magica V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471670194056200283/1_sin_titulo_20260212182115.png?ex=698fc72c&is=698e75ac&hm=e0cf2ff96416fadba7f2c433ce7d7a073c7f1b7ba1e5c275f5c26c3a08ad100e&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "MHAMAB"
+  },
+{
+    "idol": "Yoone & Leah",
+    "grupo": "Special Card",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952723116036238/33_sin_titulo_20260213130236.png?ex=6990ce4c&is=698f7ccc&hm=7d17fac6d0c9830fc21a6e1c28febf8cb2c4e06a06737fd3fbb31de001c72f70&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SCYLBC"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952721874780212/33_sin_titulo_20260213130546.png?ex=6990ce4c&is=698f7ccc&hm=f7432dfbf32269b48e4addf3f91d884f1c759204f762840bdc83cdac01178e48&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRRUBC"
+  },
+{
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952719542620223/33_sin_titulo_20260213130838.png?ex=6990ce4b&is=698f7ccb&hm=da4c67ad8ab003f9a5eeaf3147348213a8b27d30933c957a8f29d552f7b2ca58&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRLEBC"
+  },
+{
+    "idol": "Bella & Ara",
+    "grupo": "Special Card",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952718695239873/33_sin_titulo_20260213130726.png?ex=6990ce4b&is=698f7ccb&hm=91ea3f3a49cccf65dad47d2ca3b9fd4e35c70d386b17e74e3118dd577e9068c2&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SCBABC"
+  },
+{
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952717185552591/33_sin_titulo_20260213130904.png?ex=6990ce4b&is=698f7ccb&hm=c99ef2ad563106ee91bde061d74c4cc044fd368c622c0f1f54b0aac002a0aaad&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRYUBC"
+  },
+{
+    "idol": "Jeen",
+    "grupo": "MWOM$",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471958686703288463/1_sin_titulo9_20260213144123.png?ex=6990d3da&is=698f825a&hm=bbd07fb5ce0191568b285a9a43ac2fdfe8d0495f6cd0826d6396366338cd6570&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MWJEBC"
+  },
+{
+    "idol": "Ivansito",
+    "grupo": "Special Card",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952720528146586/33_sin_titulo_20260213130756.png?ex=6990ce4c&is=698f7ccc&hm=bc63672eb011763ffddd1023a5d32d883b26c2fe09673f6be57c60509f7dec8a&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SCIVBC"
+  },
+{
+    "idol": "Jez",
+    "grupo": "Soloist",
+    "era": "Birtday Card",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471958687072518306/1_sin_titulo9_20260213142418.png?ex=6990d3da&is=698f825a&hm=c932d79fb21197c7239f8433d651b9a60b80b818722e9c2d19d0b5579a742e5a&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "SOJEBC"
+  },
+{
+    "idol": "Haeun",
+    "grupo": "Mystic",
+    "era": "Magical V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471670194525966559/1_sin_titulo_20260212182550.png?ex=698fc72c&is=698e75ac&hm=19dc7d2d1cd377059a42ba260c72193b8b2a3fca931bb63aa80aa26e37286356&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "MHEMAB"
+  },
+
+
+{
+    "idol": "Hanni",
+    "grupo": "Mystic",
+    "era": "Magical V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471670194932940882/1_sin_titulo_20260212183257.png?ex=698fc72c&is=698e75ac&hm=4c262ddb626b643df0a8540d37df515d6344479585b7dbfbc10486c937e3d690&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "MHNMAB"
+  },
+
+{
+    "idol": "Hyewon",
+    "grupo": "Mystic",
+    "era": "Magical V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471670195256037638/1_sin_titulo_20260212183501.png?ex=698fc72c&is=698e75ac&hm=ea3cf2ee546f0db34a15bd4f57d5a5af960199ee83b7660594fe18e26dfa0328&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "MHWMAB"
+  },
+  {
+    "idol": "Ryo",
+    "grupo": "Soloist",
+    "era": "Blue V3",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471671954007134218/1_sin_titulo_20260212144518.png?ex=698fc8d0&is=698e7750&hm=11d25785c16460e47551339273e14be6ff230605e4d07392ef9f3dbd87cef60e&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "SRYBLC"
+  },
+
+{
+    "idol": "Ryo",
+    "grupo": "Soloist",
+    "era": "Blue V2",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471671954435215494/1_sin_titulo_20260212144448.png?ex=698fc8d0&is=698e7750&hm=0338b5e4fca02ddedd612ecdb51aba021b30c54908007f143ad53dfe6335c902&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "SRYBLB"
+  },
+
+{
+    "idol": "Ryo",
+    "grupo": "Soloist",
+    "era": "Blue V1",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471671954833412291/1_sin_titulo_20260212144257.png?ex=698fc8d0&is=698e7750&hm=f0489cf507a92d2599734376aaf7b5fbb744ce0e36cecd2165183e187877c265&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "SRYBLA"
+  },
+
+{
+    "idol": "Haeun and Hanni",
+    "grupo": "Ships",
+    "era": "Ship Haenni 1",
+    "image": "https://media.discordapp.net/attachments/929223145049706566/1471671955252973669/1_sin_titulo2_20260212190745.png?ex=698fc8d0&is=698e7750&hm=e40413ef8b6304df6724f0e4c6ac8ac992134f5087c8ea935d9b03b0a2358c84&=&format=webp&quality=lossless&width=572&height=856",
+    "codePrefix": "SHPHHA"
+  },
+  {
+    "idol": "Hari",
+    "grupo": "Mystic",
+    "era": "Magical V3",
+    "image": "https://cdn.discordapp.com/attachments/909584385915895900/1471669928280068207/1_sin_titulo_20260212182226.png?ex=698fc6ed&is=698e756d&hm=b6bb5db304e0aada281795af1e1d42c2422df19c499823a87d857786b528845c&",
+    "codePrefix": "MHAMAC"
+  },
+
+{
+    "idol": "Hyori",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://cdn.discordapp.com/attachments/909584385915895900/1471669928703561788/1_sin_titulo_20260212182448.png?ex=698fc6ed&is=698e756d&hm=01266aba1be55b75d32b3d33744efe035dbfccd2f8644794084f188331c1b464&",
+    "codePrefix": "MHYMAC"
+  },
+
+{
+    "idol": "Haeun",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://cdn.discordapp.com/attachments/909584385915895900/1471669929043296266/1_sin_titulo_20260212182951.png?ex=698fc6ed&is=698e756d&hm=ca0ef7ac3f85c09526ba98e20cefa9902d465c2a23ab48e248bf9f1669628e6f&",
+    "codePrefix": "MHEMAC"
+  },
+
+{
+    "idol": "Hanni",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://cdn.discordapp.com/attachments/909584385915895900/1471669929471246559/1_sin_titulo_20260212183350.png?ex=698fc6ed&is=698e756d&hm=fc3645ea96dfbfab2186cfacaf7006e52aba6bd2b74e13b828b7aac9ed5177bc&",
+    "codePrefix": "MHNMAC"
+  },
+
+{
+    "idol": "Hyewon",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://cdn.discordapp.com/attachments/909584385915895900/1471669929848606946/1_sin_titulo_20260212183559.png?ex=698fc6ed&is=698e756d&hm=d7ae1af472b959b65947e88166b313b86bbb5f3911dc6ca69fb5f9c69f9d98ae&",
+    "codePrefix": "MHWMAC"
+  },
+{
+    "idol": "Hanni",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471670364957573130/1_sin_titulo_20260212183327.png?ex=698fc755&is=698e75d5&hm=e960c17eb57d61acf838eb4e9e57527c78df388b9f2f503d4d3b4513c8a69b94&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MHNMAA"
+  },
+{
+    "idol": "Haeun",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471670365523808427/1_sin_titulo_20260212182700.png?ex=698fc755&is=698e75d5&hm=6a15c14d11b012f18dcc1095ec596136988101087dc7df28c15e70af1640e6ca&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MHEMAA"
+  },
+{
+    "idol": "Hyewon",
+    "grupo": "Mystic",
+    "era": "Magical",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471670366127783996/1_sin_titulo_20260212183529.png?ex=698fc755&is=698e75d5&hm=b946241d6cf7546dacd1fce8e2093f244ca31ed7f32b775c7ff7d05546b3ab5d&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "MHWMAA"
+  },
+{
+    "idol": "Xixi Booster",
+    "grupo": "Booster",
+    "era": "Momoko",
+    "image": "https://media.discordapp.net/attachments/1261906352419242086/1471620720906735688/32_sin_titulo_20260212153154.png?ex=698f9919&is=698e4799&hm=b80ad127ab295f3dc9eb46c15c50e54b851df425700d1bd91707df09869ecc93&=&format=webp&quality=lossless&width=432&height=648",
+    "codePrefix": "BOXXMK"
+  },
+  {
+    "idol": "Suhwi",
+    "grupo": "Rosémir",
+    "era": " Queendoom V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537611721019488/24_sin_titulo4_20260211123224.png?ex=698f4bb2&is=698dfa32&hm=9ee9676b738d81acba8565d645ae6c9d1d6ba33771f6ea964951ae331470652e&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RSWQDA"
+  },
+{
+    "idol": "Minjun",
+    "grupo": "Rosémir",
+    "era": " Queendoom V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537613436358760/24_sin_titulo4_20260211123234.png?ex=698f4bb2&is=698dfa32&hm=02d2ed229945be01cf2065bdac828d7576a6f99dfad6cd51097246dbb8db8980&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RMJQDA"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Rosémir",
+    "era": " Queendoom V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537612807471257/24_sin_titulo4_20260211123215.png?ex=698f4bb2&is=698dfa32&hm=4eda3a3ccc0e59b8ed14b10e3697659f1f3d624eb7463d8a220d37edfb14daab&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RRYQDA"
+  },
+{
+    "idol": "Kaede",
+    "grupo": "Rosémir",
+    "era": " Queendoom V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537614044663971/24_sin_titulo4_20260211123205.png?ex=698f4bb3&is=698dfa33&hm=7cbbf9580d049b8873061457cc490b4079c8b93704ff239b20b388ad891cbeba&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RKAQDA"
+  },
+{
+    "idol": "Sumji",
+    "grupo": "Rosémir",
+    "era": " Queendoom V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537614816542730/24_sin_titulo4_20260211123153.png?ex=698f4bb3&is=698dfa33&hm=f9d5cf2bf10785beb3cbd9453854403b5cbc0dde2bdadd90ffa1eb2eadfbbe18&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RSJQDA"
+  },
+  {
+    "idol": "Suhwi",
+    "grupo": "Rosémir",
+    "era": " Queendoom V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537616808837121/24_sin_titulo4_20260211123106.png?ex=698f4bb3&is=698dfa33&hm=b94ccc1e8bbd8d476f8fc93b6af17dbcc61b13312554c671fbe9ea0c4fa32695&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RSWQDB"
+  },
+{
+    "idol": "Minjun",
+    "grupo": "Rosémir",
+    "era": " Queendoom V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537617400238091/24_sin_titulo4_20260211123034.png?ex=698f4bb3&is=698dfa33&hm=74ac9c45449ca8a6cf536d0ba52073adbbe57edd137f88da13a33570aaeeefa1&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RMJQDB"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Rosémir",
+    "era": " Queendoom V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537615634174035/24_sin_titulo4_20260211123142.png?ex=698f4bb3&is=698dfa33&hm=440e80b883c879515a9e529e4867258f52f37009f0cacd48a62c91cf60c5a291&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RRYQDB"
+  },
+{
+    "idol": "Kaede",
+    "grupo": "Rosémir",
+    "era": " Queendoom V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537618419322960/24_sin_titulo4_20260211123001.png?ex=698f4bb4&is=698dfa34&hm=735cade6bb5daab3071247abb91a4f5cab1705f5e46fd85ad847adcf50f70229&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RKAQDB"
+  },
+{
+    "idol": "Sumji",
+    "grupo": "Rosémir",
+    "era": " Queendoom V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471537616242479154/24_sin_titulo4_20260211123123.png?ex=698f4bb3&is=698dfa33&hm=e744463374e4089709811631f6ef7806933f06a746f4d6289a2649f8904634eb&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "RSJQDB"
+  },
+  {
+    "idol": "Yoon Eunheo",
+    "grupo": "Soloist",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471536363818979428/24_sin_titulo13_20260212095955.png?ex=698f4a88&is=698df908&hm=4f737d9f30cc575d0386c6830186a5cc27ea4d0fb689c46472daabcf86f76b96&=&format=webp&quality=lossless&width=432&height=648",
+    "codePrefix": "SOYEPP"
+  },
+  {
+    "idol": "Vale",
+    "grupo": "W!WO'S",
+    "era": "Tick-Tack V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535961467781232/24_sin_titulo8_20260212092633.png?ex=698f4a29&is=698df8a9&hm=43e53bacfa899506c4118d0461843d062ad75924a6915321a4cf75137b5f1b1f&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WVATTA"
+  },
+{
+    "idol": "Axni",
+    "grupo": "W!WO'S",
+    "era": "Tick-Tack V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535962642321438/24_sin_titulo8_20260212092537.png?ex=698f4a29&is=698df8a9&hm=0819adbdb2f385719a5e81e74c3d437ce15a77d24f63a0a98e01fcb01f6b4cf2&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WAXTTA"
+  },
+{
+    "idol": "Vale",
+    "grupo": "W!WO'S",
+    "era": "Tick-Tack V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535959530147967/24_sin_titulo8_20260212092629.png?ex=698f4a28&is=698df8a8&hm=b6d908824290fcaf6fdc7760900e0d7e2ad052212110c9fade1304c36a75e8d3&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WVATTB"
+  },
+{
+    "idol": "Axni",
+    "grupo": "W!WO'S",
+    "era": "Tick-Tack V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535960830513420/24_sin_titulo8_20260212092531.png?ex=698f4a28&is=698df8a8&hm=b79b9bf3cddc98acf0c495248778a5831b85d99631ba976903a3405ba84aaed1&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WAXTTB"
+  },
+{
+    "idol": "Vale",
+    "grupo": "W!WO'S",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535937971556363/24_sin_titulo8_20260212092616.png?ex=698f4a23&is=698df8a3&hm=59877eb484532e6f8031f1ab5efcc1cf2ea0e18ab72b2ea518bb82d959e5b3c0&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WWVAPP"
+  },
+{
+    "idol": "Axni",
+    "grupo": "W!WO'S",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535938759950559/24_sin_titulo8_20260212092422.png?ex=698f4a23&is=698df8a3&hm=fca02a46648574f32e7fb4ded16337da29a17986cdec8a28f1fcdedb2c99c2ea&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "WWAXPP"
+  },
+  {
+    "idol": "Jayden",
+    "grupo": "Soloist",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535924474282177/24_sin_titulo9_20260212093050.png?ex=698f4a20&is=698df8a0&hm=4e1d5974406dc01d4282b17d37fb1a9d5285c14d2c51ddaccc7811dcf7086b6c&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOJYPP"
+  },
+{
+    "idol": "Jayden",
+    "grupo": "Soloist",
+    "era": "Nice Guy",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535923853394244/24_sin_titulo9_20260212093108.png?ex=698f4a20&is=698df8a0&hm=a0338636ac6fd514ac67c623724814e0589f3e34057cea29864a105a0d4bd7ff&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOJYNG"
+  },
+{
+    "idol": "Jayden",
+    "grupo": "Soloist",
+    "era": "Fatal Trouble",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535922972463146/24_sin_titulo9_20260212093128.png?ex=698f4a1f&is=698df89f&hm=aa58c628b0ca37d718ba6fd4462900fc1666edbbf09cdd59e26d1bf2b40a5e9c&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOJYNG"
+  },
+  {
+    "idol": "Harin",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535887945830536/24_sin_titulo10_20260212094453.png?ex=698f4a17&is=698df897&hm=032b31c3efc9249486d3f32fd7f63862c70d674adaa3b2f2ce261ab11afeb1c7&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SHANQA"
+  },
+{
+    "idol": "Min-Seo",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535886922678479/24_sin_titulo10_20260212094351.png?ex=698f4a17&is=698df897&hm=b6c8f861b9041b434a4a9a407b2e8cc0d943a8b0057c652c9efe8cab58d02a6b&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SMSNQA"
+  },
+{
+    "idol": "Yumei",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535888919040175/24_sin_titulo10_20260212094605.png?ex=698f4a17&is=698df897&hm=6691cd25a003c51f91e58b3bc1a831e3fdb0be2d688123f0a9afda6058aca760&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYUNQA"
+  },
+{
+    "idol": "Kriso",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535885894811738/24_sin_titulo10_20260212094237.png?ex=698f4a17&is=698df897&hm=7845afa138d5f465ffa539db398467b376a7dbb6d78386033396013ecd2e4bb2&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SKRNQA"
+  },
+{
+    "idol": "Akame",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535884640718858/24_sin_titulo10_20260212094016.png?ex=698f4a16&is=698df896&hm=7eb77e66c4c26fda483903f3ba2cd9009d62640d9cca37791fe9882f94783b9f&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SAKNQA"
+  },
+  {
+    "idol": "Special Poster",
+    "grupo": "Mystic",
+    "era": "Mystic Aniversary",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952695953854484/36_sin_titulo_20260213133157.png?ex=6990ce46&is=698f7cc6&hm=e069be525366d65d14b656f2c57f0698bf7d5350940f3a40e485f7af59845ec8&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "MYSPMA"
+  },
+  {
+    "idol": "Suhon",
+    "grupo": "Lumen",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471892524951146596/24_sin_titulo12_20260212095655.png?ex=6990963c&is=698f44bc&hm=3c6d0927c768de9f6a2fff5c2f806062085946b2e967b123b6f9c8416772a90d&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LUSUPP"
+  },
+{
+    "idol": "Jay",
+    "grupo": "Lumen",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471892525617909831/24_sin_titulo12_20260212095648.png?ex=6990963c&is=698f44bc&hm=f183df685e9e77dccb5c93f6f4790b62a546bec5fe03a315b940107021c1964a&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LUJAPP"
+  },
+{
+    "idol": "Moka",
+    "grupo": "Lumen",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471892526293323870/24_sin_titulo12_20260212095637.png?ex=6990963c&is=698f44bc&hm=b8757272557db6edb7725482c7d30628bfd91509a60f79b22b6eb921981780d0&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LUMOPP"
+  },
+{
+    "idol": "Misuk",
+    "grupo": "Lumen",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471892527010418819/24_sin_titulo12_20260212095642.png?ex=6990963c&is=698f44bc&hm=1bbc79db473bfd13401645347d9f02a714ebae0170596a6c9b128599268028e7&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LUMIPP"
+  },
+{
+    "idol": "Mei",
+    "grupo": "Lumen",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471892527605874821/24_sin_titulo12_20260212095632.png?ex=6990963d&is=698f44bd&hm=39e3369458e15b7397423d8e677e091caaf1e6199f638053b639deb78c2bfdef&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LUMEPP"
+  },
+{
+    "idol": "Special Poster",
+    "grupo": "SYLUNEÉ",
+    "era": "Touch Feat. Jayden",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952696859689001/36_sin_titulo_20260213133154.png?ex=6990ce46&is=698f7cc6&hm=01c3abae4ba5a6cc812a6df809516d3a7af07b7f86a0e3f132e0087b96c7ee01&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "SYSPTJ"
+  },
+{
+    "idol": "Special Poster",
+    "grupo": "Starseye",
+    "era": "Next Single",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952697769984153/36_sin_titulo_20260213133122.png?ex=6990ce46&is=698f7cc6&hm=54a56984571c47c04ba0fe09d2330c98074ff61da2b56079b794470a4e0cac8e&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "STSPNS"
+  },
+{
+    "idol": "Special Poster",
+    "grupo": "Uniqe Poster",
+    "era": "SPESSORE Family",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952698516705535/36_sin_titulo_20260213133108.png?ex=6990ce46&is=698f7cc6&hm=6384e68e15daeb9bc7eb1f28f945b91b3f003f908edff30770af3ae78226a77b&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "UPSPSF"
+  },
+{
+    "idol": "Special Poster",
+    "grupo": "212",
+    "era": "Pre Debut",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952699103645849/36_sin_titulo_20260213133034.png?ex=6990ce47&is=698f7cc7&hm=84d6a9d814a0256a97a5d9ab3a24a6f31888bedd6f2eadb099c4c584a88e9003&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "TOSPPD"
+  },
+{
+    "idol": "Special Poster",
+    "grupo": "Mirinae",
+    "era": "Commas",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952699850490018/36_sin_titulo_20260213133048.png?ex=6990ce47&is=698f7cc7&hm=6ddbce743fbcf14aa13404b867b8d790f6098df5f35450f25ea4cbd2de78be2a&=&format=webp&quality=lossless&width=629&height=544",
+    "codePrefix": "MISPCM"
+  },
+  {
+    "idol": "Liwei",
+    "grupo": "Euphoria",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471969338444480613/image.png?ex=6990ddc6&is=698f8c46&hm=90100734cc5f263e43449bab5c9bf12445c3ec5e282d869a926fe7b5f9a9ec48&",
+    "codePrefix": "EULIPR"
+  },
+
+{
+    "idol": "Natt",
+    "grupo": "Euphoria",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471969338771898652/image.png?ex=6990ddc6&is=698f8c46&hm=583880868b3ad0b0547405aa95caee570a8538a93f5d13b49f2ac0f82725284e&",
+    "codePrefix": "EUNAPR"
+  },
+
+{
+    "idol": "Hyunwoo",
+    "grupo": "Euphoria",
+    "era": "Profile photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1472022863509983454/image.png?ex=69910f9f&is=698fbe1f&hm=ffd35642110ccec3b2c5debf2f7fe1af3a9f41a28f65bef7ea8c92ece2d06646&=&format=webp&quality=lossless&width=433&height=648",
+    "codePrefix": "EUHYPR"
+  },
+
+{
+    "idol": "Nicki",
+    "grupo": "Euphoria",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471969340290109550/image.png?ex=6990ddc6&is=698f8c46&hm=0d9852f5c1bc1d2d582f5f365b89d39bd1faca9d11ef5d06cdf04477a8ae41e1&",
+    "codePrefix": "EUNIPR"
+  },
+
+{
+    "idol": "Ji-hoon",
+    "grupo": "Euphoria",
+    "era": "Profile photo",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471969340919382137/image.png?ex=6990ddc6&is=698f8c46&hm=e190662f46221193b68a314773462781268c59566d35558811a52521b3e88823&",
+    "codePrefix": "EUJIPR"
+  },
+  {
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980194175779042/1_sin_titulo7_20260213182323.png?ex=6990e7e2&is=698f9662&hm=5ddd07c0ae153fa0a92612bef6782d82254e5c43143fe3bdee706f19cbccd327&",
+    "codePrefix": "ETIZOA"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980194519584941/1_sin_titulo7_20260213181558.png?ex=6990e7e2&is=698f9662&hm=cd4bc2fe55bfa1f7e55b2f1ad7ca0ccd1b26607b5b137392dff87008e27a4dde&",
+    "codePrefix": "ELEZOA"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980195153051649/1_sin_titulo7_20260213181356.png?ex=6990e7e2&is=698f9662&hm=d40aeb7505f0a658b7e6e32a3571969cd76dfad0b8deb0116a6c10c8ea4ee75a&",
+    "codePrefix": "EMAZOA"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980195740123226/1_sin_titulo7_20260213181637.png?ex=6990e7e2&is=698f9662&hm=ed65976285034e2f41082eb1a89f336cf2be757e43b79d410c4e07160e9d6fa9&",
+    "codePrefix": "EYOZOA"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V1",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980196197568625/1_sin_titulo7_20260213181735.png?ex=6990e7e2&is=698f9662&hm=b1d2b1faf55e57b226427b188194e5a6f09e2fabe04390d980023d169f414c6a&",
+    "codePrefix": "EJIZOA"
+  },
+
+{
+    "idol": "Tiffany",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980196738502847/1_sin_titulo7_20260213181918.png?ex=6990e7e2&is=698f9662&hm=e6f596fe2148a7f1ef77795ecfa84fb8e9f57d22c35973528aba8af5ceb713a9&",
+    "codePrefix": "ETIZOB"
+  },
+
+{
+    "idol": "Leah",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980197111791667/1_sin_titulo7_20260213181949.png?ex=6990e7e3&is=698f9663&hm=0eef20b6341cf14c79d9e77bcb5c63b115f685aadd23f07493a073da7ab8f7a6&",
+    "codePrefix": "ELEZOB"
+  },
+
+{
+    "idol": "Matrix",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980197619171461/1_sin_titulo7_20260213182023.png?ex=6990e7e3&is=698f9663&hm=84018270343baf8bd6f12588ce161ec6b36cecc3a04268145c692d60b94b6b9f&",
+    "codePrefix": "EMAZOB"
+  },
+
+{
+    "idol": "Yooyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980198009372682/1_sin_titulo7_20260213182057.png?ex=6990e7e3&is=698f9663&hm=e512ea775654bd479fed143608076d29d5de5830f7c241f877876b61f54fd5ad&",
+    "codePrefix": "EYOZOB"
+  },
+
+{
+    "idol": "Jiyeon",
+    "grupo": "Eek!",
+    "era": "Zoom V2",
+    "image": "https://cdn.discordapp.com/attachments/1095252014964932640/1471980198512562370/1_sin_titulo7_20260213182128.png?ex=6990e7e3&is=698f9663&hm=6bdd3f1603c3f07162af95280b7b155fa957aadf1313b10f270f23ce75f8bb7c&",
+    "codePrefix": "EJIZOB"
+  },
+  {
+    "idol": "Jurin and Ryo",
+    "grupo": "Ships",
+    "era": "Ship Juryo 1",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471952677402448119/1_sin_titulo8_20260213160101.png?ex=6990ce41&is=698f7cc1&hm=dfead0a34ab0388bccd39285ed5e15e800b7142fa73218896cc25b100937695d&=&format=webp&quality=lossless&width=433&height=648",
+    "codePrefix": "SHJRSJ"
+  },
+  {
+    "idol": "Harin",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535914055503966/24_sin_titulo10_20260212094447.png?ex=698f4a1d&is=698df89d&hm=2e13c136a96163cd625d22739a8d6537b0e20c376d65ad9227c8ee556d0ae1e9&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SHANQB"
+  },
+{
+    "idol": "Min-Seo",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535913241677874/24_sin_titulo10_20260212094344.png?ex=698f4a1d&is=698df89d&hm=3ddbc52d2a7418cd94f501adbea8266a15f101936942cccaa9c27d1b9bea77f9&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SMSNQB"
+  },
+{
+    "idol": "Yumei",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535914944692358/24_sin_titulo10_20260212094600.png?ex=698f4a1d&is=698df89d&hm=81e23eb829ebdcd984bb7802af9b69b38a785efe1a0a09d716691e8bef24a623&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYUNQB"
+  },
+{
+    "idol": "Kriso",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535911685853327/24_sin_titulo10_20260212094232.png?ex=698f4a1d&is=698df89d&hm=d0d8d446493e7857f530397d743e6bc609fce2c0f63d75927aaee454b92c9f2b&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SKRNQB"
+  },
+{
+    "idol": "Akame",
+    "grupo": "SYLUNEÉ",
+    "era": "NOT QUIT ANYMORE V2",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535910352060670/24_sin_titulo10_20260212094009.png?ex=698f4a1c&is=698df89c&hm=8827c74ef8a6a121ce93830755e81a79d2ea46a9e378f5d20d7e7c8ea9b144dd&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SAKNQA"
+  },
+  {
+    "idol": "Harin",
+    "grupo": "SYLUNEÉ",
+    "era": "Sugar Trigger",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535865556635678/24_sin_titulo10_20260212094459.png?ex=698f4a12&is=698df892&hm=40753c9a42bb6e3c923045d1a99a8936b7516e0715c996fbe72387b0d2038b28&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYHAST"
+  },
+{
+    "idol": "Min-Seo",
+    "grupo": "SYLUNEÉ",
+    "era": "Sugar Trigger",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535867519565844/24_sin_titulo10_20260212094403.png?ex=698f4a12&is=698df892&hm=582be120b8d9b098ad84a249fed74f5deaf675e70fff1c4b1917f0eb445ef460&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYMSST"
+  },
+{
+    "idol": "Yumei",
+    "grupo": "SYLUNEÉ",
+    "era": "Sugar Trigger",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535864017457423/24_sin_titulo10_20260212094612.png?ex=698f4a11&is=698df891&hm=72ab087ce64e354811729473568586e362f97d362e1d2040f0d629345763c538&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYYUST"
+  },
+{
+    "idol": "Kriso",
+    "grupo": "SYLUNEÉ",
+    "era": "Sugar Trigger",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535868412956743/24_sin_titulo10_20260212094313.png?ex=698f4a12&is=698df892&hm=7c557d8f673099ad539a028394d0b523273d2ee36d5f52ce256efd8d6cb0e580&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYKRST"
+  },
+{
+    "idol": "Akame",
+    "grupo": "SYLUNEÉ",
+    "era": "Sugar Trigger",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535869604270202/24_sin_titulo10_20260212094134.png?ex=698f4a13&is=698df893&hm=ea1bb91e4d833c82fd430a841b144ea924418a8bd5741c591673ad1b9ac92f69&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYAKST"
+  },
+  {
+    "idol": "Haeri",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535790814134465/1_sin_titulo_20260212045158.png?ex=698f4a00&is=698df880&hm=6b039805e37455677afbbd40d5b697713159154a546be8a293139ab125dc235c&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STHAPP"
+  },
+{
+    "idol": "Garam",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535791229505607/1_sin_titulo_20260212045831.png?ex=698f4a00&is=698df880&hm=a6a1ebea4798613a092feeb6b23022135b3c669c4608e17b2014a5fdbf12f271&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STGAPP"
+  },
+{
+    "idol": "Hyo",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535791866908898/1_sin_titulo_20260212050451.png?ex=698f4a00&is=698df880&hm=34cb5afd34145fc1fc7bd52568231f4706c139d453e2f45a9709c8e3f46aed0b&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STHYPP"
+  },
+{
+    "idol": "Jena",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535792328409181/1_sin_titulo_20260212050550.png?ex=698f4a00&is=698df880&hm=556c919e57ae8be6710b5a66065693dfd2844df3bbe14b4c805a7132601df3a8&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STJEPP"
+  },
+{
+    "idol": "Myria",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535792638918719/1_sin_titulo_20260212050636.png?ex=698f4a00&is=698df880&hm=e6ecf3667088995a40055b81010f74f2e6a85d87d4cebc67c8471a4bb148cd35&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STMYPP"
+  },
+{
+    "idol": "Yves",
+    "grupo": "Starseye",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471535793314205737/1_sin_titulo_20260212050716.png?ex=698f4a00&is=698df880&hm=5da15123b15ff5b811f8cda52e711ee686ad68bf7b2f8d6db53775b14a9f91e0&=&format=webp&quality=lossless&width=363&height=543",
+    "codePrefix": "STYVPP"
+  },
+  {
+    "idol": "Yoone",
+    "grupo": "Soloist",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217992267333764/24_sin_titulo2_20260211125428.png?ex=698e2207&is=698cd087&hm=14e1dc5d632ae7c03950fae7461beb9086982fe6cef1775f7a75712a445526e8&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOYORG"
+  },
+{
+    "idol": "Min",
+    "grupo": "Soloist",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217993534013654/24_sin_titulo2_20260211125258.png?ex=698e2207&is=698cd087&hm=974dc278b7329b2d00e12e38d3d23bd63aea1d195fe31c4a7bf65cb0436c3cf8&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOMIRG"
+  },
+{
+    "idol": "Yoon Eunheo",
+    "grupo": "Soloist",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217992946942043/24_sin_titulo2_20260211125342.png?ex=698e2207&is=698cd087&hm=0cfb898c5ab8ae9f93c608c665607d4a933614d98734157ecd0cf3f70abf4a3a&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SOYERG"
+  },
+{
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217994481795173/24_sin_titulo2_20260211125214.png?ex=698e2207&is=698cd087&hm=03483cea6b21236e7958a2055764669f6e360c88baf9f0752d57512d73f15138&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRBERG"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217995127722015/24_sin_titulo2_20260211125141.png?ex=698e2207&is=698cd087&hm=4f25c84b98b53a17dad4fd0c7eb380799f436cb194d7b3cf5cd1ba80d1521796&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRRURG"
+  },
+{
+    "idol": "Sarang",
+    "grupo": "Like:Y",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217995899736244/24_sin_titulo2_20260211124939.png?ex=698e2208&is=698cd088&hm=31d1d66a3062d80ca16639fe978e438026d6ec0ddfafc9ae1e1ec63de0a4a292&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYSARG"
+  },
+{
+    "idol": "JURIN & IRENE",
+    "grupo": "Special Card",
+    "era": "ROSE-GOLD",
+    "image": "https://media.discordapp.net/attachments/1095252014964932640/1471217996566495283/24_sin_titulo2_20260211124749.png?ex=698e2208&is=698cd088&hm=3585ca0713da184e5cd7295e7c23016ca015b82c2eaa79b5f3dec625cca9e6fc&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SCJIRG"
+  },
+  {
+    "idol": "Jurin",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917466359202087/24_sin_titulo2_20260210151205.png?ex=698d0a24&is=698bb8a4&hm=e20c50e62962949e6d9453aebb974c3fcd86b98aae4b30c9dad4182e6c86d5e9&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYJUPP"
+  },
+  {
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "Ctrl + Alt = Unlabeled V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917986935377995/24_sin_titulo4_20260210153420.png?ex=698d0aa0&is=698bb920&hm=05211ce4784842d63823cb69324f57a1d5ce67893655f17ad45e79a47bf98a80&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CBECAA"
+  },
+{
+    "idol": "Woogie",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917466937888872/24_sin_titulo2_20260210151357.png?ex=698d0a24&is=698bb8a4&hm=3657b2381fa78b1dec6f7765d688721934a31ba74d87c370cf2c91fbd7a9ff33&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYWOPP"
+  },
+{
+    "idol": "Yunhae",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917465226608753/24_sin_titulo2_20260210151757.png?ex=698d0a24&is=698bb8a4&hm=ae12f927a996112e3c4f21dfb0213700adb343a92e8004528c28d03b68011b42&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYYUPP"
+  },
+{
+    "idol": "Geral",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917465738317905/24_sin_titulo2_20260210151709.png?ex=698d0a24&is=698bb8a4&hm=e334b7ee3c5e8193376ffe1d0b3dc31f38f340a6332f5883a98566ca08d653f6&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYGEPP"
+  },
+{
+    "idol": "Yeon",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917463498690600/24_sin_titulo2_20260210151512.png?ex=698d0a23&is=698bb8a3&hm=52a509a23addce087ab47be976c535a505d05cb3c286fc14dc28f26efc21a2fe&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYYEPP"
+  },
+{
+    "idol": "Sarang",
+    "grupo": "LIKE:Y",
+    "era": "Profile Photo",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907490316325075/24_sin_titulo2_20260210151604.png?ex=698e5259&is=698d00d9&hm=c238ca2bcc8b710260c24b9b03020ebb39d60c299bf883d01806bd1843214ba4&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "LYSAPP"
+  },
+  {
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470908030664315024/24_sin_titulo4_20260210161512.png?ex=698d015a&is=698bafda&hm=3dc6480cdfaddc9243472e3be6caa58d1031e3a50d015a8286479f5b97f44c2d&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CLEUMC"
+  },
+{
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470908031746310276/24_sin_titulo4_20260210161431.png?ex=698d015a&is=698bafda&hm=6cad8586052ca7ece74f93f3574423384d39c1e924a72963df05d71730ef7cfb&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CYUUMC"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470908029854683240/24_sin_titulo4_20260210162257.png?ex=698d015a&is=698bafda&hm=a9405b3053dee29387476a284f4905891e644499cc5f9e6fd495e5736ce819d6&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRUUMC"
+  },
+{
+    "idol": "Minji",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470908029045309694/24_sin_titulo4_20260210162312.png?ex=698d015a&is=698bafda&hm=8e32220ef9189c0e875a3a93f4d94d760606917e1ed286595ad714d7e495a2ba&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CMIUMC"
+  },
+{
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470908032421597428/24_sin_titulo4_20260210161620.png?ex=698d015b&is=698bafdb&hm=00547804e5f369ae11d60ba2f921590a5c390c5decfd9fc7902a151ab239a59f&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CBEUMC"
+  },
+  {
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907338113417227/24_sin_titulo4_20260210154534.png?ex=698d00b5&is=698baf35&hm=d59d2a279477ddb94dc4c11971774d06501843299ff0d7e25278857babe3c106&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CLEUMB"
+  },
+{
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907338713075859/24_sin_titulo4_20260210154804.png?ex=698d00b5&is=698baf35&hm=c0718f38f5156ebf2e07d42c3562781398ab1ba97bbd9b96548b0ef12f30de37&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CYUUMB"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907336980697098/24_sin_titulo4_20260210155117.png?ex=698d00b5&is=698baf35&hm=51c0a88517587fa59f0549d3136513542774371875395a62cad374d8c41a92d3&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRUUMB"
+  },
+{
+    "idol": "Minji",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907335982448671/24_sin_titulo4_20260210155227.png?ex=698d00b5&is=698baf35&hm=af8d61f3d04c8a0e386219f36f7b74269023a014dc2de944ccf5d7cfe1db9ae0&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CMIUMB"
+  },
+{
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907337479815424/24_sin_titulo4_20260210154916.png?ex=698d00b5&is=698baf35&hm=ffc40a9e4f538ea187369bf0c4aecc09864f3a4a12e1f080a222e581bd0f6242&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CBEUMB"
+  },
+  {
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907321403183215/24_sin_titulo4_20260210154530.png?ex=698d00b1&is=698baf31&hm=0a868894300963a13fe2fc77a5c5a7189683454aeefe8f7cd85289d53653937e&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CLEUMA"
+  },
+{
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907321839386759/24_sin_titulo4_20260210154802.png?ex=698d00b1&is=698baf31&hm=2d593fa9c62d7db99e59fcd1327ea5a4009c1b631c51f72d2be76de67a28768f&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CYUUMA"
+  },
+{
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907320816107704/24_sin_titulo4_20260210155112.png?ex=698d00b1&is=698baf31&hm=08b5d592eee62ad91de099d3e1691b652fbb947e2450b898564e238e8edcb100&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRUUMA"
+  },
+{
+    "idol": "Minji",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907319645769842/24_sin_titulo4_20260210155230.png?ex=698d00b1&is=698baf31&hm=9f07d83267abb72503657d12783351b9c1b5880123ce66388289fbf9d922a0e5&=&format=webp&quality=lossless&width=362&height=544 ",
+    "codePrefix": "CMIUMA"
+  },
+{
+    "idol": "Bella",
+    "grupo": "Crave",
+    "era": "Unplugged Memories V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907320337825873/24_sin_titulo4_20260210154912.png?ex=698d00b1&is=698baf31&hm=294a68a291b324cb4d66b589f0639b59abdc22ff6cf20e6877621d52c7c5dd13&=&format=webp&quality=lossless&width=432&height=648",
+    "codePrefix": "CBEUMA"
+  },
+  {
+    "idol": "Yoone",
+    "grupo": "Soloist",
+    "era": "HEARTAIDS V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907463715786907/24_sin_titulo3_20260210152222.png?ex=698d00d3&is=698baf53&hm=47ecdac84dac64a3b463c9d1ff8c28299e41569e127603e5b70fe0b22ad31812&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYOHAA"
+  },
+{
+    "idol": "Yoone",
+    "grupo": "Soloist",
+    "era": "HEARTAIDS V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907464554905683/24_sin_titulo3_20260210152201.png?ex=698d00d3&is=698baf53&hm=2919aedce47b869c3d4552a7d53ce3d4bba7c1d2edfe89274a8dc9aca36f8a62&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SYOHAB"
+  },
+{
+    "idol": "Jez",
+    "grupo": "Soloist",
+    "era": "ECHOED HEARTS V1",
+    "image": "",
+    "codePrefix": "SJEEHA"
+  },
+{
+    "idol": "Jez",
+    "grupo": "Soloist",
+    "era": "ECHOED HEARTS V2",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907281624268840/24_sin_titulo5_20260210160219.png?ex=698d00a8&is=698baf28&hm=264b401c1695f41944362abedb6c09e747075fc5163b01892f383372957d680b&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SJEEHB"
+  },
+{
+    "idol": "Jez",
+    "grupo": "Soloist",
+    "era": "ECHOED HEARTS V3",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907282211606662/24_sin_titulo5_20260210160226.png?ex=698d00a8&is=698baf28&hm=bb09bcf28a7a906f129541b64b72a843408d3182c491becc3d62b02510493cce&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SJEEHC"
+  },
+{
+    "idol": "Jez",
+    "grupo": "Soloist",
+    "era": "ECHOED HEARTS V4",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470907283017044069/24_sin_titulo5_20260210160223.png?ex=698d00a8&is=698baf28&hm=a390a9499c1239c0b4795afcb7dac2c9f485a06a8fa3b4f1bda5c4967d0ca4b0&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SJEEHD"
+  },
+  {
+    "idol": "Min",
+    "grupo": "Soloist",
+    "era": "Creamy Blue V1",
+    "image": "https://media.discordapp.net/attachments/1462226555181994109/1470743814967918735/24_sin_titulo_20260210052804.png?ex=698c686a&is=698b16ea&hm=c8f2a394206905a09109d34bc8d55d92b33c9662015bee27ce994d002623d383&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SMNCBA"
+  },
+  {
+    "idol": "Min",
+    "grupo": "Soloist",
+    "era": "Creamy Blue V2",
+    "image": "https://media.discordapp.net/attachments/1462226555181994109/1470743816196718602/24_sin_titulo_20260210052726.png?ex=698c686a&is=698b16ea&hm=dc62e4a1c56e77324e2d097fe1e108e2f86f48931fba1ccb73f45e14934254cc&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SMNCBB"
+  },
+  {
+    "idol": "Yuki",
+    "grupo": "Crave",
+    "era": "Ctrl + Alt = Unlabeled V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917987631628409/24_sin_titulo4_20260210153301.png?ex=698d0aa0&is=698bb920&hm=387595e21577efcdcd5980b7cc9184795c1a01f1e4d2d43703d61baea0b76749&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CYUCAA"
+  },
+  {
+    "idol": "Leah",
+    "grupo": "Crave",
+    "era": "Ctrl + Alt = Unlabeled V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917985479950406/24_sin_titulo4_20260210153651.png?ex=698d0aa0&is=698bb920&hm=1ed6746de70e9b4df1f33d2dae00b8d282c350cb055b9479136e8416619d8937&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CLECAA"
+  },
+  {
+    "idol": "Minji",
+    "grupo": "Crave",
+    "era": "Ctrl + Alt = Unlabeled V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917986104643720/24_sin_titulo4_20260210153525.png?ex=698d0aa0&is=698bb920&hm=5dab55a15939dc404c4833394a217c4267210e32e35493d99400e5ec55c37188&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CMICAA"
+  },
+  {
+    "idol": "Ruby",
+    "grupo": "Crave",
+    "era": "Ctrl + Alt = Unlabeled V1",
+    "image": "https://media.discordapp.net/attachments/946871648202666084/1470917988323430623/24_sin_titulo4_20260210152931.png?ex=698d0aa0&is=698bb920&hm=447fc1e1b8b312df8085e545b4a580c2577a1a0b33766aa6cfa4975c5da7f457&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "CRUCAA"
+  },
+  {
+    "idol": "Min",
+    "grupo": "Soloist",
+    "era": "Creamy Blue V3",
+    "image": "https://media.discordapp.net/attachments/1462226555181994109/1470743818574889103/24_sin_titulo_20260210052721.png?ex=698c686b&is=698b16eb&hm=d6184a674fd71e393b45874f3c3fd8a290cdfd4a6ad1265a8c0fda6580a706bc&=&format=webp&quality=lossless&width=362&height=544",
+    "codePrefix": "SMNCBC"
+  }
+]
