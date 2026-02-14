@@ -1090,7 +1090,7 @@ ${card.idol} • ${card.era}
     }  )
     }});
 
-client.login("process.env.TOKEN");
+client.login(process.env.DISCORD_TOKEN);
 
 process.on('unhandledRejection', (err) => {
     console.error('Unhandled Promise Rejection:', err);
@@ -1099,3 +1099,4 @@ process.on('unhandledRejection', (err) => {
 process.on('uncaughtException', (err) => {
     console.error('Uncaught Exception:', err);
 });
+
